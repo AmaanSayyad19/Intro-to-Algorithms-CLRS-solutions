@@ -25,7 +25,6 @@ This **[website](https://walkccc.github.io/CLRS/)** contains nearly complete sol
 
 I hope to organize solutions to help people and myself study algorithms. By using [Markdown (.md)](https://en.wikipedia.org/wiki/Markdown) files and [KaTeX](https://katex.org) math library, this page is much more readable on portable devices.
 
-_"Many a little makes a mickle."_
 
 ## Contributors
 
